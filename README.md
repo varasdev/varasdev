@@ -9,7 +9,7 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento de software e 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias e Ferramentas
 
 <img 
  align="left" 
