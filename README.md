@@ -133,3 +133,9 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento de software e 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+### Contato
+
+<a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-9a090b1a4/]" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+</a>
