@@ -136,4 +136,6 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento de software e 
 
 ### Contato
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)]([https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-9a090b1a4/])
+<a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-9a090b1a4/]()" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
+</a>
