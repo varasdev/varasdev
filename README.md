@@ -125,7 +125,7 @@ Atualmente, busco aprimorar meus conhecimentos e criar soluções que possam aut
  title="AWS" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
 <br/>
