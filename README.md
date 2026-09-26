@@ -3,9 +3,9 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo João Vitor Lopes, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e desenvolvimento de software. Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e desenvolvimento de software. Tenho experiência com aplicações web utilizando Python, Django e JavaScript, além de conhecimentos em suporte de TI, infraestrutura, redes e servidores.
+Me chamo João Vitor Lopes, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e desenvolvimento de software. Tenho experiência com aplicações web utilizando Python, Django e JavaScript, além de conhecimentos em suporte de TI, infraestrutura, redes e servidores.
 
-Atualmente, busco aprimorar meus conhecimentos em desenvolvimento de software e criar soluções que possam automatizar processos, resolver problemas e facilitar o dia a dia das pessoas e empresas.
+Atualmente, busco aprimorar meus conhecimentos e criar soluções que possam automatizar processos, resolver problemas e facilitar o dia a dia de pessoas e empresas.
 
 ---
 
